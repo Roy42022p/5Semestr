@@ -3,7 +3,7 @@
 
 Excel - python matplotlib
 
-https://docs.google.com/spreadsheets/d/1srpV9e7_OavodB8DfBvo0exyYWmxybAAs9vViFVNtZg/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/1wIMVttvc1Qz3YiLMZQR5Y8k5KfCalsN-YymNnEGtSBE/edit?usp=sharing
 
 https://replit.com/@nazirov21/Chisliennyie-mietody#main.py
 
