@@ -1,0 +1,15 @@
+C:\Users\Администратор\source\repos\Roy\Roy\bin\Debug\Roy.exe.config
+C:\Users\Администратор\source\repos\Roy\Roy\bin\Debug\Roy.exe
+C:\Users\Администратор\source\repos\Roy\Roy\bin\Debug\Roy.pdb
+C:\Users\Администратор\source\repos\Roy\Roy\obj\Debug\Roy.csproj.AssemblyReference.cache
+C:\Users\Администратор\source\repos\Roy\Roy\obj\Debug\MainWindow.g.cs
+C:\Users\Администратор\source\repos\Roy\Roy\obj\Debug\App.g.cs
+C:\Users\Администратор\source\repos\Roy\Roy\obj\Debug\Roy_MarkupCompile.cache
+C:\Users\Администратор\source\repos\Roy\Roy\obj\Debug\Roy_MarkupCompile.lref
+C:\Users\Администратор\source\repos\Roy\Roy\obj\Debug\MainWindow.baml
+C:\Users\Администратор\source\repos\Roy\Roy\obj\Debug\Roy.g.resources
+C:\Users\Администратор\source\repos\Roy\Roy\obj\Debug\Roy.Properties.Resources.resources
+C:\Users\Администратор\source\repos\Roy\Roy\obj\Debug\Roy.csproj.GenerateResource.cache
+C:\Users\Администратор\source\repos\Roy\Roy\obj\Debug\Roy.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\Roy\Roy\obj\Debug\Roy.exe
+C:\Users\Администратор\source\repos\Roy\Roy\obj\Debug\Roy.pdb
