@@ -18,3 +18,7 @@ Backend:
 1) Переключение между страницами
 2) Анмимации (проигрываение видео)
 3) Язык программирования Java или kotlin
+
+
+
+https://docs.google.com/document/d/15WekbjFwgJ_nThWZaOc_qcOyNgoqxCUGjwAk3MxZQzQ/edit?usp=sharing
