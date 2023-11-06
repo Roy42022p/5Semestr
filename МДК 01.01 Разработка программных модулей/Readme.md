@@ -25,3 +25,4 @@ https://docs.google.com/document/d/15WekbjFwgJ_nThWZaOc_qcOyNgoqxCUGjwAk3MxZQzQ/
 
 https://docs.google.com/document/d/18gz5zm89N-R6vKFYCO0eq7FJ72qe18iaZQazJRub5WE/edit?usp=sharing Конспект по производству
 
+https://docs.google.com/document/d/1xe3FhASCPkA7BMf714P56RF_jUU8kCuXlkRs8uZoTQ0/edit?usp=sharing Установка Redos
