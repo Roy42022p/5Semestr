@@ -17,3 +17,7 @@ Backend:
 1) Переключение между страницами
 2) Анмимации (проигрываение видео)
 3) Язык программирования Java или kotlin
+
+
+Аналог Android Studio https://docs.google.com/document/d/1G-LGOffkZKwN-rRNiTvOq4KKCSAFfVDeAUC4ZrS6R-I/edit?usp=sharing
+
